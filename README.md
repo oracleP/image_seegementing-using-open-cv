@@ -1,4 +1,4 @@
-# image_segementing-using-open-cv
+#image_segementing-using-open-cv
 image_seegementing using open cv
 🧠 Image Segmenting using OpenCV
 This project demonstrates various image segmentation techniques using OpenCV and Matplotlib in Python. It includes adaptive thresholding, simple thresholding, watershed segmentation, contour detection, morphological operations, and K-Means clustering for identifying and separating visual components from images (like coins or shapes).
